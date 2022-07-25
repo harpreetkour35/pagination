@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <div className="App">Pagination App</div>;
+  return <div className="App">Tetsing</div>;
 }
 
 export default App;
